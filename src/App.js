@@ -149,7 +149,7 @@ class App extends Component {
               name="firstname"
               value={this.state.firstname}
               onChange={(event) => this.setState({ firstname: event.target.value })}
-              floatingLabelText="Firstname" />
+              floatingLabelText="Firstname123" />
             <br />
             <TextField
               id="lastname"
